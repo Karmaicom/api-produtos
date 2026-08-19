@@ -1,3 +1,6 @@
 spring:
   application:
     name: api-produtos
+
+server:
+  port: 8081
